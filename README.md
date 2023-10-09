@@ -13,3 +13,5 @@ MAIL_PASSWORD=####
 MAIL_ENCRYPTION=tls
 MAIL_FROM_ADDRESSasadmansuri6797@gmail.com
 MAIL_FROM_NAME="${APP_NAME}"
+
+4. Run php artisan db:seed
